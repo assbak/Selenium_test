@@ -1,17 +1,3 @@
-# Ajouter au script précédent, les cas de tests suivants:
-
-# 	Feature 1: Login
-# 	----------------
-# 	  CT2: Login avec un mot de passe invalide (John Doe / ThisAPassword)
-		
-# 	  CT3: Login avec un identifiant inconnu (Jack / ThisIsNotAPassword)
-	
-	
-# 	Feature 2: Prendre un RDV
-# 	-------------------------  
-# 	  CT1: Prendre un RDV et valider la réservation de RDV
-
-
 import unittest
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium import webdriver

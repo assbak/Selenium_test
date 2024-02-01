@@ -1,0 +1,15 @@
+;Facility;Hosp Read;Program;Date;Comment
+1;Tokyo Cura;Not;Medicaid;Past month;Empty
+2;Tokyo Cura;Yes;None;Next month;With
+3;HongKong Cura;Not;None;current Month;With
+4;HongKong Cura;Yes;Medicare;current Month;Empty
+5;HongKong Cura;Not;Medicare;Past month;With
+6;HongKong Cura;Yes;Medicaid;Next month;Empty
+7;Seoul Cura;Yes;Medicare;Next month;With
+8;Seoul Cura;Not;Medicaid;current Month;Empty
+9;Seoul Cura;Yes;None;current Month;With
+10;Seoul Cura;Not;Medicare;Past month;Empty
+11;Tokyo Cura;Not;None;Past month;With
+12;Tokyo Cura;Yes;Medicare;Next month;Empty
+13;Tokyo Cura;Not;Medicare;current Month;With
+14;Tokyo Cura;Yes;Medicaid;current Month;Empty
